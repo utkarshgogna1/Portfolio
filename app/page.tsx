@@ -11,10 +11,11 @@ export default function Home() {
     <main className="h-full w-full">
       <div className="flex flex-col gap-20">
         <Hero />
+        <Resume />
         <Skills />
-        <Encryption />
-        <Projects />
         
+        <Projects />
+       
       </div>
     </main>
   );

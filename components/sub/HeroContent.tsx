@@ -29,6 +29,10 @@ const HeroContent = () => {
           <h1 className="Welcome-text text-[13px]">
             Software Developer
           </h1>
+          <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
+          <h1 className="Welcome-text text-[13px]">
+            Frontend Developer
+          </h1>
         </motion.div>
 
         <motion.div
@@ -49,12 +53,11 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
+       Hi, I’m Utkarsh Gogna, a Software Developer with expertise in Full Stack Development, AI/ML, and Cloud Technologies. With a strong foundation in Computer Science and hands-on experience, I build scalable solutions that combine innovation and practicality. From AI-powered chatbots to cybersecurity tools, my work focuses on creating impactful and efficient systems.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
-          href="/cv_final.pdf"
+          href="/Utkarsh_gogna.pdf"
           download="Utkarsh Gogna Resume.pdf"
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
