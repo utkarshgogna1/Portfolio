@@ -80,6 +80,7 @@ const Projects = () => {
           description="Designed and constructed a Wired Control Manual Bot, a Bluetooth-controlled Bot, and a line tracer during a Robotics Workshop at VIT, Pune. Demonstrated expertise in robotics and hands-on application of theoretical knowledge."
         />
         <ProjectCard
+        githubLink=""
           src="/sty.png"
           title="Styrofoam 3D Cutting Machine"
           
