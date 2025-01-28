@@ -49,6 +49,7 @@ const Projects = () => {
         />
         <ProjectCard
           src="/mlbot.png"
+          githubLink=""
           title="Machine Learning Chat Bot"
          
 
@@ -56,6 +57,7 @@ const Projects = () => {
         />
         <ProjectCard
           src="/collegepred.png"
+          githubLink=""
           title="Python-based College Predictor"
           
 
@@ -63,12 +65,14 @@ const Projects = () => {
         />
         <ProjectCard
           src="/obst.png"
+          githubLink=""
           title="Obstacle Dodge Game"
           
 
           description="Created an engaging obstacle dodge game with procedurally generated maps using Unity. Focused on delivering a seamless gaming experience through dynamic map generation."
         />
         <ProjectCard
+        githubLink=""
           src="/bots.png"
           title="Robotics Workshop - Making of Bots"
           
